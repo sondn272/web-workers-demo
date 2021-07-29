@@ -2,7 +2,7 @@
   "name": "web-worker-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sondn272.github.io/web-worker-demo/",
+  "homepage": "https://sondn272.github.io/web-workers-demo/",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
