@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web-workers-demo/static/css/main.241fa251.chunk.css",
+    "main.css": "/web-workers-demo/static/css/main.01aaf568.chunk.css",
     "main.js": "/web-workers-demo/static/js/main.c8c21c08.chunk.js",
     "main.js.map": "/web-workers-demo/static/js/main.c8c21c08.chunk.js.map",
     "runtime-main.js": "/web-workers-demo/static/js/runtime-main.eb4bede3.js",
@@ -10,7 +10,7 @@
     "static/js/3.9882e67d.chunk.js": "/web-workers-demo/static/js/3.9882e67d.chunk.js",
     "static/js/3.9882e67d.chunk.js.map": "/web-workers-demo/static/js/3.9882e67d.chunk.js.map",
     "index.html": "/web-workers-demo/index.html",
-    "static/css/main.241fa251.chunk.css.map": "/web-workers-demo/static/css/main.241fa251.chunk.css.map",
+    "static/css/main.01aaf568.chunk.css.map": "/web-workers-demo/static/css/main.01aaf568.chunk.css.map",
     "static/js/2.937591ed.chunk.js.LICENSE.txt": "/web-workers-demo/static/js/2.937591ed.chunk.js.LICENSE.txt",
     "static/js/checkPrimeWorker.66affcd1.chunk.worker.js": "/web-workers-demo/static/js/checkPrimeWorker.66affcd1.chunk.worker.js",
     "static/js/checkPrimeWorker.66affcd1.chunk.worker.js.map": "/web-workers-demo/static/js/checkPrimeWorker.66affcd1.chunk.worker.js.map"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb4bede3.js",
     "static/js/2.937591ed.chunk.js",
-    "static/css/main.241fa251.chunk.css",
+    "static/css/main.01aaf568.chunk.css",
     "static/js/main.c8c21c08.chunk.js"
   ]
 }
