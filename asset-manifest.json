@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web-worker-demo/static/css/main.e07bcad1.chunk.css",
+    "main.js": "/web-worker-demo/static/js/main.222488b8.chunk.js",
+    "main.js.map": "/web-worker-demo/static/js/main.222488b8.chunk.js.map",
+    "runtime-main.js": "/web-worker-demo/static/js/runtime-main.7e648c75.js",
+    "runtime-main.js.map": "/web-worker-demo/static/js/runtime-main.7e648c75.js.map",
+    "static/js/2.937591ed.chunk.js": "/web-worker-demo/static/js/2.937591ed.chunk.js",
+    "static/js/2.937591ed.chunk.js.map": "/web-worker-demo/static/js/2.937591ed.chunk.js.map",
+    "static/js/3.9882e67d.chunk.js": "/web-worker-demo/static/js/3.9882e67d.chunk.js",
+    "static/js/3.9882e67d.chunk.js.map": "/web-worker-demo/static/js/3.9882e67d.chunk.js.map",
+    "index.html": "/web-worker-demo/index.html",
+    "static/css/main.e07bcad1.chunk.css.map": "/web-worker-demo/static/css/main.e07bcad1.chunk.css.map",
+    "static/js/2.937591ed.chunk.js.LICENSE.txt": "/web-worker-demo/static/js/2.937591ed.chunk.js.LICENSE.txt",
+    "static/js/checkPrimeWorker.a367f4a1.chunk.worker.js": "/web-worker-demo/static/js/checkPrimeWorker.a367f4a1.chunk.worker.js",
+    "static/js/checkPrimeWorker.a367f4a1.chunk.worker.js.map": "/web-worker-demo/static/js/checkPrimeWorker.a367f4a1.chunk.worker.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e648c75.js",
+    "static/js/2.937591ed.chunk.js",
+    "static/css/main.e07bcad1.chunk.css",
+    "static/js/main.222488b8.chunk.js"
+  ]
+}
